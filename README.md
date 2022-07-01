@@ -6,4 +6,4 @@
 ```
 ![Cisco](https://a11ybadges.com/badge?logo=cisco)
 
-[1 - Modelo OSI](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)<br>
+[1 - Modelo OSI]("")<br>
