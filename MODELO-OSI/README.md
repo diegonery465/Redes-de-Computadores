@@ -14,7 +14,7 @@ E como essa solicitação é realizada em um modelo OSI? <br>
 
 ```
 
-1 - Camada de Aplicação (Application)
+1 - Camada de Aplicação (Application layer)
 
 ```
 
