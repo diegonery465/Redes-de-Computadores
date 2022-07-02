@@ -15,4 +15,7 @@ Digamos que o usuário queira acessar um portal dentro de um servidor Apache, ne
 Essa camada formata os dados “web”, em um formato que seja compreendido pelo meu servidor neste exemplo o formato compreendido pelo servidor é o “html”, mas poderia ser um outro formato de dados.
 
 
-<div style="text-align:center"><img src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/presentation"></div>
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/presentation"> 
+</p>
+
