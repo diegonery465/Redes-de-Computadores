@@ -19,7 +19,7 @@ Digamos que o usuário queira acessar um portal dentro de um servidor Apache, ne
 
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img02.png"> 
+    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img02.PNG"> 
 </p>
 
 # 2 - Camada de Apresentação (Presentation layer)
