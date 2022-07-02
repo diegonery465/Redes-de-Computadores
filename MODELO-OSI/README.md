@@ -11,7 +11,7 @@ Digamos que o usuário queira acessar um portal dentro de um servidor Apache, ne
 
 
 
-# 1 - Camada de Aplicação (Application layer)
+# 1 - Camada de Apresentação (Presentation layer)
 
 
 
