@@ -15,7 +15,7 @@ Digamos que o usuário queira acessar um portal dentro de um servidor Apache, ne
 
 
 
-Essa camada formata os dados “web”, em um formato que seja compreendido pelo meu servidor neste exemplo o formato compreendido pelo servidor é o “html”, mas poderia ser um outro formato de dados.
+É quando o usuário irá acessar o “Web browser” onde ele digitará o endereço do portal e após apertar o enter, irá fazer inteiração com destino final que é o servidor Apache onde está o Portal.
 
 
 <p align="center" width="100%">
