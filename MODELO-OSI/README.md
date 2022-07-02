@@ -1,7 +1,10 @@
 
 # Introdução ao Modelo OSI
 
-<img src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img01.png"/> <br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img01.png"> 
+</p>
+
 
 Digamos que o usuário queira acessar um portal dentro de um servidor Apache, neste exemplo o servidor DNS irá traduzir o URL para um endereço de IP, e como essa solicitação é realizada em um modelo OSI? <br>
 
