@@ -6,6 +6,8 @@
 Digamos que o usuário queira acessar um portal dentro de um servidor Apache, neste exemplo o servidor DNS irá traduzir o URL para um endereço de IP, e como essa solicitação é realizada em um modelo OSI? <br>
 
 
+
+
 # 1 - Camada de Aplicação (Application layer)
 
 
