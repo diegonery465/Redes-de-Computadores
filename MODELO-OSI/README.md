@@ -11,7 +11,7 @@ Digamos que o usuário queira acessar um portal dentro de um servidor Apache, ne
 
 
 
-# 1 - Camada de Apresentação (Presentation layer)
+# 1 - Camada de Aplicação (Aplicattion layer)
 
 
 
@@ -19,6 +19,13 @@ Essa camada formata os dados “web”, em um formato que seja compreendido pelo
 
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img02.PNG"> 
+    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img02.png"> 
 </p>
 
+# 2 - Camada de Apresentação (Presentation layer)
+
+Essa camada formata os dados “web”, em um formato que seja compreendido pelo meu servidor neste exemplo o formato compreendido pelo servidor é o “html”, mas poderia ser um outro formato de dados.
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img03.png"> 
+</p>
