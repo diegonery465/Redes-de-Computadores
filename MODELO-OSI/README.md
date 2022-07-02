@@ -16,6 +16,6 @@ Essa camada formata os dados “web”, em um formato que seja compreendido pelo
 
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/presentation"> 
+    <img width="33%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img02.PNG"> 
 </p>
 
