@@ -1,5 +1,5 @@
 
-# Introdução ao Modelo OSI
+# Modelo OSI
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/MODELO-OSI/img-READ/img01.png"> 
