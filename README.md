@@ -6,4 +6,4 @@
 ```
 ![Cisco](https://a11ybadges.com/badge?logo=cisco)
 
-[1 - Modelo OSI](https://github.com/diegonery465/CCNAv7---CISCO/tree/main/MODELO-OSI)<br>
+[1 - Introdução](https://github.com/diegonery465/Redes-de-Computadores/tree/main/INTRODUCAO)<br>
