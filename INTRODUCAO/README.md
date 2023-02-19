@@ -42,14 +42,14 @@ Em pequenas empresas e em casas, muitos computadores *funcionam como servidores 
     <img width="50%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img03.JPG"> 
 </p>
 
-## Vantagens da rede ponto a ponto
+### Vantagens da rede ponto a ponto
 
 1. Fácil de configurar
 2. Menos complexo
 3. Menor custo, por não precisar de um servidor dedicado
 4. Pode ser usada para tarefas simples, como transferir arquivos e compartilhar impressoras
 
-## Desvantagens da rede ponto a ponto
+### Desvantagens da rede ponto a ponto
 
 1. Nenhuma administração centralizada
 2. Não é tão segura
