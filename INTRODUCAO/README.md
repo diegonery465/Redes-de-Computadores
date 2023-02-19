@@ -9,7 +9,7 @@ Protocolos são um conjuntos de regras estabelecidas para trocarem informações
 
 
 <p align="center" width="100%">
-    <img src="https://github.com/diegonery465/RedeDeComputadores/tree/main/INTRODUCAO/Imagens/img01.PNG"/> 
+    <img src="https://github.com/diegonery465/RedeDeComputadores/tree/main/INTRODUCAO/Imagens/img01.JPG"/> 
 </p>
 
 # Componentes de uma Rede
