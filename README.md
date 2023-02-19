@@ -6,5 +6,5 @@
 ```
 ![Cisco](https://a11ybadges.com/badge?logo=cisco)
 
- 👉 <a href="https://github.com/diegonery465/RedesDeComputadores/tree/main/INTRODUCAO" target="_blank">Introdução</a></BR>
+ 👉 <a href="https://github.com/diegonery465/RedeDeComputadores/tree/main/INTRODUCAO" target="_blank">Introdução</a></BR>
  
