@@ -27,7 +27,7 @@ Este número *identifica o host dentro de uma rede específica*. Este número é
 Cada serviço exige um software de servidor separado. Por exemplo, um computador exige um software de servidor Web, para que possa prover serviços web à rede. Um computador com software de servidor pode fornecer serviços simultaneamente a muitos clientes diferentes.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img02.JPG"> 
+    <img width="75%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img02.JPG"> 
 </p>
 
 # Rede ponto a ponto
@@ -39,7 +39,7 @@ Além dos servidores que geralmente *são executados em computadores separados*,
 Em pequenas empresas e em casas, muitos computadores *funcionam como servidores e clientes na rede*. Esse tipo de rede é chamado de *rede ponto a ponto.*
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img03.JPG"> 
+    <img width="75%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img03.JPG"> 
 </p>
 
 ## Vantagens da rede ponto a ponto
@@ -69,7 +69,7 @@ Um dispositivo final é a origem ou o destino de uma mensagem transmitida pela r
 *Dispositivos intermediários* conectam os dispositivos finais individuais à rede. Eles conectam várias redes individuais para formar uma internetwork. Onde oferecem conectividade e asseguram que os dados fluam pela rede.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img05.JPG"> 
+    <img width="50%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img05.JPG"> 
 </p>
 
 # Meios de Rede
@@ -79,17 +79,17 @@ As redes modernas usam *3 (três) tipos de mídias* para interconectar dispositi
 *1. Fios de metal dentro de cabos*: É onde os dados são *codificados em impulsos elétricos.*
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img06.JPG"> 
+    <img width="50%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img06.JPG"> 
 </p>
 
 *2. Fibra óptica (Fibras de vidro):*: É onde os dados são *codificados em pulsos de luz.*
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img07.JPG"> 
+    <img width="50%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img07.JPG"> 
 </p>
 
 *3. Transmissão sem fio:*: É quando os dados são *codificados através da modulação de frequências específicas de ondas eletromagnéticas.*
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img08.JPG"> 
+    <img width="50%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img08.JPG"> 
 </p>
