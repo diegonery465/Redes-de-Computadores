@@ -1,5 +1,5 @@
 
-# Introdução
+# Introdução a rede de computadores
 
 </br>
 
@@ -22,7 +22,7 @@ Os hosts também podem ser chamados de *dispositivos finais*. Alguns hosts tamb�
 
 Este número *identifica o host dentro de uma rede específica*. Este número é chamado de *endereço IP (Internet Protocol)*. O endereço IP identifica o host e a rede à qual o host está conectado.
 
-*Servidores* são computadores com software que lhes permite f ornecer informações, como e-mail ou páginas da Web, para outros dispositivos finais na rede.
+*Servidores* são computadores com software que lhes permite fornecer informações, como e-mail ou páginas da Web, para outros dispositivos finais na rede.
 
 Cada serviço exige um software de servidor separado. Por exemplo, um computador exige um software de servidor Web, para que possa prover serviços web à rede. Um computador com software de servidor pode fornecer serviços simultaneamente a muitos clientes diferentes.
 
