@@ -27,7 +27,7 @@ Este número *identifica o host dentro de uma rede específica*. Este número é
 Cada serviço exige um software de servidor separado. Por exemplo, um computador exige um software de servidor Web, para que possa prover serviços web à rede. Um computador com software de servidor pode fornecer serviços simultaneamente a muitos clientes diferentes.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/diegonery465/CCNAv7---CISCO/blob/main/INTRODUCAO/img-READ/img01.png"> 
+    <img width="100%" src="https://github.com/diegonery465/RedeDeComputadores/blob/main/INTRODUCAO/Imagens/img02.JPG"> 
 </p>
 
 # Rede ponto a ponto
