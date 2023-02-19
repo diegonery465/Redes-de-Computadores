@@ -3,7 +3,7 @@
 
 </br>
 
-Uma rede é uma infraestrutura que permite diversos hosts (computadores) troquem informações entre si, o seu funcionamento é baseado em protocolos e os protocolos dividem as tarefas da comunicação em camadas.
+Uma rede é uma infraestrutura que permite *diversos hosts* (computadores) troquem informações entre si, o seu funcionamento é baseado em protocolos e os protocolos dividem as tarefas da comunicação em camadas.
 
 Protocolos são um conjuntos de regras estabelecidas para trocarem informações, exemplo prático, quando um usuário precisa enviar um e-mail para outro usuário.
 
